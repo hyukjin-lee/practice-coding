@@ -2,7 +2,7 @@ package line;
 
 import java.util.*;
 
-public class LineAlgorithmTest_01 {
+public class LineAlgorithm1_summer {
 
     private static Scanner scanner = new Scanner(System.in);
     private static Map<Point, String> scoreBoards = new TreeMap<Point, String>(new Comparator<Point>() {
