@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class backjoon_15683_Samsung {
+public class backjoon_15683 {
 
     static int map[][];
     static int answer = 0;
