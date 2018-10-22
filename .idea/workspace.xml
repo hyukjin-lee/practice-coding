@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520e64bd-4501-4b4a-8ee1-8cc1382607c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wooh/first_number1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_14889.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/backjoon_14889.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,27 +29,27 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="115" />
-          <entry key="java" value="22904" />
-          <entry key="md" value="925" />
+          <entry key="java" value="22921" />
+          <entry key="md" value="1360" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="22904" />
-          <entry key="Markdown" value="925" />
+          <entry key="JAVA" value="22921" />
+          <entry key="Markdown" value="1360" />
           <entry key="PLAIN_TEXT" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="75" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="75" />
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -58,15 +59,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_2739.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_2440.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,7 +103,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="375">
-                <caret line="25" selection-start-line="25" selection-end-line="25" />
+                <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -154,14 +146,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/wooh/first_number1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="514">
+              <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/wooh/first_number1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -220,12 +224,13 @@
         <option value="$PROJECT_DIR$/src/skplanet/number3.java" />
         <option value="$PROJECT_DIR$/src/backjoon/backjoon_14889.java" />
         <option value="$PROJECT_DIR$/src/line/stringtest.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/backjoon_14889.md" />
         <option value="$PROJECT_DIR$/src/backjoon/backjoon_15683.java" />
         <option value="$PROJECT_DIR$/src/backjoon/backjoon_16137.java" />
         <option value="$PROJECT_DIR$/src/backjoon/backjoon_16137_comment.java" />
         <option value="$PROJECT_DIR$/src/backjoon/backjoon_16137_comment_not_solved.java" />
         <option value="$PROJECT_DIR$/src/wooh/first_number1.java" />
+        <option value="$PROJECT_DIR$/src/backjoon/backjoon_14889.md" />
+        <option value="$PROJECT_DIR$/src/wooh/first_number1.md" />
       </list>
     </option>
   </component>
@@ -317,7 +322,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540231361605" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540231366034" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -454,12 +459,12 @@
       <workItem from="1539849996325" duration="34420000" />
       <workItem from="1540206667268" duration="1515000" />
       <workItem from="1540210784663" duration="444000" />
-      <workItem from="1540211249937" duration="2260000" />
+      <workItem from="1540211249937" duration="2877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132197000" />
+    <option name="totallyTimeSpent" value="132814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
@@ -474,14 +479,14 @@
       <window_info id="Favorites" order="7" sideWeight="0.5008026" side_tool="true" weight="0.2043551" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8333333" visible="true" weight="0.29839572" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8333333" weight="0.29839572" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.492674" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48635235" weight="0.14438502" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.48635235" visible="true" weight="0.14438502" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5136476" side_tool="true" weight="0.22032085" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.497558" weight="0.32834226" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -743,16 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_14889.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
-            <caret line="25" selection-start-line="25" selection-end-line="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_15683.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1200">
@@ -785,11 +780,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/wooh/first_number1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="514">
+          <caret line="41" column="41" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_14889.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="375">
+            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wooh/first_number1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="90" selection-start-line="13" selection-start-column="90" selection-end-line="13" selection-end-column="90" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
