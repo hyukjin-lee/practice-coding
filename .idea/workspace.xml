@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520e64bd-4501-4b4a-8ee1-8cc1382607c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_16137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_16137_comment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/backjoon/backjoon_14889.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/backjoon/backjoon_14889.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/backjoon/backjoon_15683_Samsung$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/backjoon/backjoon_15683_Samsung.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/line/LineAlgorithmTest_01$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/line/LineAlgorithmTest_01$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/line/LineAlgorithmTest_01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/line/stringtest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/backjoon/backjoon_15683_Samsung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/backjoon/backjoon_15683.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,37 +15,39 @@
     <session id="-1735916289">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="89" />
-          <entry key="java" value="22186" />
+          <entry key="dummy" value="115" />
+          <entry key="java" value="22904" />
           <entry key="md" value="925" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="22186" />
+          <entry key="JAVA" value="22904" />
           <entry key="Markdown" value="925" />
-          <entry key="PLAIN_TEXT" value="89" />
+          <entry key="PLAIN_TEXT" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="74" />
+          <entry key="java" value="75" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="74" />
+          <entry key="JAVA" value="75" />
           <entry key="Markdown" value="1" />
         </counts>
       </usages-collector>
@@ -66,18 +58,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kakao/kakao_6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
-              <caret line="81" column="40" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_2739.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_14889.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="480">
               <caret line="35" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -131,7 +111,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="375">
-                <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+                <caret line="25" selection-start-line="25" selection-end-line="25" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,7 +121,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_15683.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
+            <state relative-caret-position="1200">
               <caret line="82" column="59" selection-start-line="82" selection-start-column="59" selection-end-line="82" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -151,10 +131,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_16137.java">
+        <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_16137_not_solved.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-335">
-              <caret line="72" column="40" lean-forward="true" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+            <state relative-caret-position="1035">
+              <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_16137_comment_not_solved.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,10 +155,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_16137_comment.java">
+        <entry file="file://$PROJECT_DIR$/src/wooh/first_number1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="553">
-              <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+            <state relative-caret-position="288">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -232,6 +224,8 @@
         <option value="$PROJECT_DIR$/src/backjoon/backjoon_15683.java" />
         <option value="$PROJECT_DIR$/src/backjoon/backjoon_16137.java" />
         <option value="$PROJECT_DIR$/src/backjoon/backjoon_16137_comment.java" />
+        <option value="$PROJECT_DIR$/src/backjoon/backjoon_16137_comment_not_solved.java" />
+        <option value="$PROJECT_DIR$/src/wooh/first_number1.java" />
       </list>
     </option>
   </component>
@@ -241,10 +235,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="378" />
-    <option name="y" value="23" />
-    <option name="width" value="1251" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="53" />
+    <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -253,6 +246,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,19 +302,22 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="skplanet" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="wooh" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539976434915" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540231361605" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -352,7 +350,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.backjoon_16137_comment">
+  <component name="RunManager" selected="Application.first_number1">
     <configuration name="anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="koitp.anagram" />
       <module name="algorithm" />
@@ -366,8 +364,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="backjoon_14889" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_14889" />
+    <configuration name="backjoon_16137_comment_not_solved" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_16137_comment_not_solved" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -379,8 +377,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="backjoon_16137" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_16137" />
+    <configuration name="backjoon_16137_not_solved" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_16137_not_solved" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -392,12 +390,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="backjoon_16137_comment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="backjoon.backjoon_16137_comment" />
+    <configuration name="first_number1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wooh.first_number1" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="backjoon.*" />
+          <option name="PATTERN" value="wooh.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -421,15 +419,15 @@
     <list>
       <item itemvalue="Application.netmable6" />
       <item itemvalue="Application.anagram" />
-      <item itemvalue="Application.backjoon_14889_samsung" />
-      <item itemvalue="Application.backjoon_16137" />
-      <item itemvalue="Application.backjoon_16137_comment" />
+      <item itemvalue="Application.backjoon_16137_not_solved" />
+      <item itemvalue="Application.backjoon_16137_comment_not_solved" />
+      <item itemvalue="Application.first_number1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.backjoon_16137_comment" />
-        <item itemvalue="Application.backjoon_16137" />
-        <item itemvalue="Application.backjoon_14889_samsung" />
+        <item itemvalue="Application.first_number1" />
+        <item itemvalue="Application.backjoon_16137_comment_not_solved" />
+        <item itemvalue="Application.backjoon_16137_not_solved" />
         <item itemvalue="Application.anagram" />
         <item itemvalue="Application.netmable6" />
       </list>
@@ -453,18 +451,20 @@
       <workItem from="1538182827314" duration="6679000" />
       <workItem from="1538466119710" duration="10295000" />
       <workItem from="1539242897063" duration="38712000" />
-      <workItem from="1539849996325" duration="33305000" />
+      <workItem from="1539849996325" duration="34420000" />
+      <workItem from="1540206667268" duration="1515000" />
+      <workItem from="1540210784663" duration="444000" />
+      <workItem from="1540211249937" duration="2260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126863000" />
+    <option name="totallyTimeSpent" value="132197000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1251" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919742" visible="true" weight="0.2076096" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919742" visible="true" weight="0.15934066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -536,10 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="1426" column="22" selection-start-line="1426" selection-start-column="22" selection-end-line="1426" selection-end-column="22" />
-          <folding>
-            <element signature="e#55263#55264#0" expanded="true" />
-            <element signature="e#55302#55303#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -561,9 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="7" column="47" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -588,23 +581,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_10809.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_10809.java" />
     <entry file="file://$PROJECT_DIR$/src/netmarble/netmable5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
           <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -612,9 +593,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -622,9 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -632,9 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,9 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -652,9 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -662,9 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -672,9 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -682,9 +642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -692,9 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,9 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-159">
           <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -712,9 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -736,24 +684,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="234" column="11" selection-start-line="234" selection-start-column="11" selection-end-line="234" selection-end-column="11" />
-          <folding>
-            <element signature="e#7881#7882#0" expanded="true" />
-            <element signature="e#7926#7927#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/line/stringtest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#86#87#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/line/stringtest.java" />
     <entry file="file://$PROJECT_DIR$/src/line/LineAlgorithm1_summer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-474">
@@ -763,7 +697,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kakao/kakao_6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
+        <state relative-caret-position="1170">
           <caret line="81" column="40" selection-start-line="81" selection-start-column="40" selection-end-line="81" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -801,7 +735,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_14889.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="480">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -813,7 +747,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="375">
-            <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <caret line="25" selection-start-line="25" selection-end-line="25" />
           </first_editor>
           <second_editor />
         </state>
@@ -821,7 +755,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_15683.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="1200">
           <caret line="82" column="59" selection-start-line="82" selection-start-column="59" selection-end-line="82" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -829,20 +763,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_16137.java">
+    <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_16137_not_solved.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-335">
-          <caret line="72" column="40" lean-forward="true" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
+        <state relative-caret-position="1035">
+          <caret line="72" column="40" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_16137_comment.java">
+    <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_16137_comment_not_solved.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="127" lean-forward="true" selection-start-line="127" selection-end-line="127" />
+        <state relative-caret-position="480">
+          <caret line="35" column="65" selection-start-line="35" selection-start-column="65" selection-end-line="35" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/wooh/first_number1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
