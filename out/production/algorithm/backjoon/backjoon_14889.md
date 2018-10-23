@@ -1,7 +1,7 @@
 # 백준 14889번 스타트 링크
 > 삼성 역량테스트 대비할겸 기출문제를 풀어보았습니다. DFS로 해결하였습니다.
 
-* 성장 포인트
+### 성장 포인트
 
 ```
 BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
