@@ -37,7 +37,7 @@ public class first_number2 {
         for (int i = 0; i < alex.length(); i++) {
             if (map.get(alex.charAt(i)) > map.get(bob.charAt(i))) {
                 alexWinCount++;
-            } else if (map.get(alex.valueOf(i)) == map.get(bob.valueOf(i))) {
+            } else if (map.get(alex.charAt(i)) == map.get(bob.charAt(i))) {
                 continue;
             } else {
                 bobWinCount++;
