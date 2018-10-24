@@ -3,7 +3,7 @@
 
 ### 성장 포인트
 
-```
+```java
 BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 for (int i = 1; i <= N; i++) {
      StringTokenizer stringTokenizer = new StringTokenizer(bufferedReader.readLine());

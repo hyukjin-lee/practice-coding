@@ -3,7 +3,7 @@
 
 ### 성장 포인트
 
-```
+```java
 Stack<Integer> stack = new Stack<>();
 stack.peek();     
 ```
