@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520e64bd-4501-4b4a-8ee1-8cc1382607c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_1747.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/backjoon/backjoon_1747.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,14 +30,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="115" />
-          <entry key="java" value="24909" />
-          <entry key="md" value="2194" />
+          <entry key="java" value="24916" />
+          <entry key="md" value="3412" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24912" />
-          <entry key="Markdown" value="2191" />
+          <entry key="JAVA" value="24926" />
+          <entry key="Markdown" value="3402" />
           <entry key="PLAIN_TEXT" value="115" />
         </counts>
       </usages-collector>
@@ -45,7 +45,7 @@
         <counts>
           <entry key="iml" value="1" />
           <entry key="java" value="114" />
-          <entry key="md" value="8" />
+          <entry key="md" value="10" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -53,7 +53,7 @@
         <counts>
           <entry key="IDEA_MODULE" value="1" />
           <entry key="JAVA" value="114" />
-          <entry key="Markdown" value="8" />
+          <entry key="Markdown" value="10" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
@@ -64,6 +64,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_14889.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="165">
+                <caret line="11" column="6" lean-forward="true" selection-end-line="25" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readMe.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -86,14 +98,26 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_1747.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+            <state relative-caret-position="663">
+              <caret line="52" column="41" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_1747.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="480">
+                <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -159,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/LineAlgorithmTest_01.java" />
         <option value="$PROJECT_DIR$/src/line/LineAlgorithmTest_01.java" />
         <option value="$PROJECT_DIR$/src/backjoon/backjoon_2739.java" />
@@ -210,6 +233,7 @@
         <option value="$PROJECT_DIR$/src/wooh/first_number3.md" />
         <option value="$PROJECT_DIR$/readMe.md" />
         <option value="$PROJECT_DIR$/src/backjoon/backjoon_1747.java" />
+        <option value="$PROJECT_DIR$/src/backjoon/backjoon_1747.md" />
       </list>
     </option>
   </component>
@@ -302,7 +326,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540470607276" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540470774320" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -440,12 +464,12 @@
       <workItem from="1540206667268" duration="1515000" />
       <workItem from="1540210784663" duration="444000" />
       <workItem from="1540211249937" duration="6675000" />
-      <workItem from="1540315616581" duration="9696000" />
+      <workItem from="1540315616581" duration="10595000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146308000" />
+    <option name="totallyTimeSpent" value="147207000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,7 +484,7 @@
     <frame x="-68" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919742" visible="true" weight="0.14057508" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919742" visible="true" weight="0.14057508" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -470,14 +494,14 @@
       <window_info id="Favorites" order="7" sideWeight="0.5008026" side_tool="true" weight="0.2043551" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8333333" visible="true" weight="0.2980198" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8333333" weight="0.2980198" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.492674" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48635235" weight="0.13366337" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48635235" visible="true" weight="0.13366337" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5136476" side_tool="true" weight="0.22032085" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.497558" weight="0.32834226" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -498,13 +522,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="1426" column="22" selection-start-line="1426" selection-start-column="22" selection-end-line="1426" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_10809.java" />
     <entry file="file://$PROJECT_DIR$/src/skplanet/number1_failed_refactoring.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -714,16 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_14889.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/wooh/first_number2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -860,13 +867,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_14889.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="6" lean-forward="true" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_1747.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        <state relative-caret-position="663">
+          <caret line="52" column="41" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backjoon/backjoon_1747.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
