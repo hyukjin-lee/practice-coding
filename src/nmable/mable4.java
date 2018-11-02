@@ -1,6 +1,6 @@
-package netmarble;
+package nmable;
 
-public class netmable4 {
+public class mable4 {
     public int solution(int[] estimates, int k) {
         int answer = 0;
 

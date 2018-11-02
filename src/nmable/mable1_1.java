@@ -1,6 +1,6 @@
-package netmarble;
+package nmable;
 
-public class netmable1_1 {
+public class mable1_1 {
     public static String solution(String phrases, int second) {
         StringBuilder result = new StringBuilder("______________");
 

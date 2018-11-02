@@ -1,8 +1,8 @@
-package line;
+package lin;
 
 import java.util.*;
 
-public class LineAlgorithm1_summer {
+public class lin3 {
 
     private static Scanner scanner = new Scanner(System.in);
     private static Map<Point, String> scoreBoards = new TreeMap<Point, String>(new Comparator<Point>() {

@@ -1,6 +1,6 @@
-package netmarble;
+package nmable;
 
-public class netmable3 {
+public class mable3 {
     public int solution(String s1, String s2) {
         int answer = 0;
 

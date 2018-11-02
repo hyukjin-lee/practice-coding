@@ -1,4 +1,4 @@
-package line;
+package lin;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-public class line2 {
+public class lin2 {
     static Map<Integer, String> response = new HashMap<>();
     static Map<String, String> data = new HashMap<>();
 

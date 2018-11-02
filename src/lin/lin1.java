@@ -1,9 +1,9 @@
-package line;
+package lin;
 
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class line1 {
+public class lin1 {
 
     public static void main(String... args) {
         String input = new Scanner(System.in).nextLine().trim();

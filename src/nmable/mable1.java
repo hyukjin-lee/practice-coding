@@ -1,10 +1,10 @@
-package netmarble;
+package nmable;
 
 import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class netmable1 {
+public class mable1 {
     public static String solution(String phrases, int second) {
         String answer = "";
 

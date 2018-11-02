@@ -1,11 +1,11 @@
-package netmarble;
+package nmable;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class netmable5 {
+public class mable5 {
     public static int solution(int[] stats) {
         int roomCount = 0;
         Map<Integer, List<Integer>> teams = new HashMap<>();

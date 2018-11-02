@@ -1,7 +1,4 @@
-package skplanet;
-
-import java.util.ArrayList;
-import java.util.List;
+package skp11;
 
 public class number1_final {
 

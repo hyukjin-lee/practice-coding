@@ -1,6 +1,6 @@
-package netmarble;
+package nmable;
 
-public class netmable6 {
+public class mable6 {
     static int sum = 0;
     public static int solution(int n) {
         return flowOfDragonLife(0, 0, 1, n);

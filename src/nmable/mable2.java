@@ -1,9 +1,9 @@
-package netmarble;
+package nmable;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class netmable2 {
+public class mable2 {
     public long[] solution(String[] words) {
         long[] answer = new long[words.length];
         Map<String, Integer> strings = new HashMap<>();
