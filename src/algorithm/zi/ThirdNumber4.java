@@ -1,4 +1,4 @@
-package algorithm.zinter;
+package algorithm.zi;
 
 import org.junit.Test;
 
@@ -10,7 +10,7 @@ import java.util.Map;
 import static org.hamcrest.core.Is.is;
 import static org.junit.Assert.assertThat;
 
-public class SecondNumber4 {
+public class ThirdNumber4 {
 
     public int solution(String input) {
         Map<Character, Integer> alphabets = new HashMap<>();

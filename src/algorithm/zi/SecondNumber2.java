@@ -1,4 +1,4 @@
-package algorithm.zinter;
+package algorithm.zi;
 
 import org.junit.Test;
 
