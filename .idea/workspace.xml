@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="520e64bd-4501-4b4a-8ee1-8cc1382607c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ac/number1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ac/number2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithm/ac/number3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastructure/stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/readMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/til/backjoon/backjoon_14889.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/til/algorithm/backjoon/backjoon_14889.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/til/backjoon/backjoon_1652.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/til/algorithm/backjoon/backjoon_1652.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/til/backjoon/backjoon_1747.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/til/algorithm/backjoon/backjoon_1747.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/til/wooh/first_number1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/til/algorithm/wooh/first_number1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/til/wooh/first_number2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/til/algorithm/wooh/first_number2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/til/wooh/first_number3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/til/algorithm/wooh/first_number3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/til/zi/ThirdNumber1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/til/algorithm/zi/ThirdNumber1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/til/zi/ThirdNumber2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/til/algorithm/zi/ThirdNumber2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/til/zi/ThirdNumber4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/til/algorithm/zi/ThirdNumber4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/algorithm/zi/FirstNumber2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/algorithm/zi/SecondNumber4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/algorithm/zi/ThirdNumber3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/algorithm/zi/ThirdNumber3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/til/backjoon/backjoon_14889.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/til/backjoon/backjoon_1652.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/til/backjoon/backjoon_1747.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/til/wooh/first_number1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/til/wooh/first_number2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/til/wooh/first_number3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/til/zi/SecondNumber4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/zi/ThirdNumber4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/zi/ThirdNumber4.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,29 +30,30 @@
     <session id="-1735916289">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="SecondNumber4" value="1" />
           <entry key="dummy" value="150" />
-          <entry key="java" value="30260" />
+          <entry key="java" value="31564" />
           <entry key="md" value="5735" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="30274" />
+          <entry key="JAVA" value="31578" />
           <entry key="Markdown" value="5721" />
           <entry key="PLAIN_TEXT" value="151" />
         </counts>
@@ -56,7 +62,7 @@
         <counts>
           <entry key="SecondNumber4" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="179" />
+          <entry key="java" value="191" />
           <entry key="md" value="27" />
           <entry key="xml" value="2" />
         </counts>
@@ -64,7 +70,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="179" />
+          <entry key="JAVA" value="191" />
           <entry key="Markdown" value="27" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="XML" value="2" />
@@ -78,10 +84,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/backjoon/backjoon_2440.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="345">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/ac/number1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/ac/number2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="49" column="5" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#609#610#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/ac/number3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#985#986#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,8 +142,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="664">
-              <caret line="52" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="602">
+              <caret line="52" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -99,67 +152,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/til/algorithm/zi/ThirdNumber2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="540">
-                <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/src/algorithm/ka/ka6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber3.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="86" lean-forward="true" selection-start-line="44" selection-start-column="86" selection-end-line="44" selection-end-column="86" />
+            <state relative-caret-position="445">
+              <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/til/algorithm/zi/ThirdNumber4.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/readMe.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="165">
-                <caret line="11" column="105" selection-start-line="11" selection-start-column="105" selection-end-line="11" selection-end-column="105" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/backjoon/backjoon_2439.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithm/backjoon/backjoon_2438.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -167,8 +175,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithm/backjoon/backjoon_1747.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+            <state relative-caret-position="510">
+              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -177,10 +185,22 @@
         <entry file="file://$PROJECT_DIR$/src/til/algorithm/zi/ThirdNumber1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="19" column="22" selection-end-line="54" selection-end-column="64" />
+              <first_editor relative-caret-position="386">
+                <caret line="33" column="43" lean-forward="true" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -195,17 +215,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>length</find>
+      <find>this.length</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/netmarble/netmable6.java" />
-        <option value="$PROJECT_DIR$/src/netmarble/netmable4.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/backjoon_2251.java" />
-        <option value="$PROJECT_DIR$/src/backjoon/backjoon_10809.java" />
-        <option value="$PROJECT_DIR$/src/koitp/anagram.java" />
         <option value="$PROJECT_DIR$/src/skplanet/number3.java" />
         <option value="$PROJECT_DIR$/src/backjoon/backjoon_14889.java" />
         <option value="$PROJECT_DIR$/src/line/stringtest.java" />
@@ -247,11 +268,16 @@
         <option value="$PROJECT_DIR$/src/algorithm/zi/ThirdNumber3_3.java" />
         <option value="$PROJECT_DIR$/src/algorithm/zi/ThirdNumber3.java" />
         <option value="$PROJECT_DIR$/src/algorithm/zi/FirstNumber2.java" />
-        <option value="$PROJECT_DIR$/src/algorithm/zi/ThirdNumber4.java" />
         <option value="$PROJECT_DIR$/src/algorithm/backjoon/backjoon_1747.java" />
         <option value="$PROJECT_DIR$/src/til/zi/ThirdNumber1.md" />
         <option value="$PROJECT_DIR$/src/til/zi/ThirdNumber2.md" />
         <option value="$PROJECT_DIR$/readMe.md" />
+        <option value="$PROJECT_DIR$/src/algorithm/ka/ka1.java" />
+        <option value="$PROJECT_DIR$/src/datastructure/stack.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/zi/ThirdNumber4.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/ac/number2.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/ac/number3.java" />
+        <option value="$PROJECT_DIR$/src/algorithm/ac/number1.java" />
       </list>
     </option>
   </component>
@@ -263,7 +289,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1254" />
+    <option name="width" value="1041" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -272,7 +298,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -296,12 +321,49 @@
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="ac" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="ka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="zi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="til" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="til" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="til" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="zi" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,7 +372,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541581370236" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542351679239" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -349,8 +411,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ThirdNumber3.test">
-    <configuration name="ThirdNumber1.solutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.number1.test">
+    <configuration name="ThirdNumber4.solutionTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -359,71 +421,71 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="algorithm.zi" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.zi.ThirdNumber1" />
-      <option name="METHOD_NAME" value="solutionTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThirdNumber1.solutionTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.zi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="algorithm.zi" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.zi.ThirdNumber1" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.zi.ThirdNumber4" />
       <option name="METHOD_NAME" value="solutionTest2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdNumber1.solutionTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="number1.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.zi.*" />
+          <option name="PATTERN" value="algorithm.ac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="algorithm.zi" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.zi.ThirdNumber1" />
-      <option name="METHOD_NAME" value="solutionTest3" />
+      <option name="PACKAGE_NAME" value="algorithm.ac" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.ac.number1" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdNumber2.solutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="number1.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.zi.*" />
+          <option name="PATTERN" value="algorithm.ac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="algorithm.zi" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.zi.ThirdNumber2" />
-      <option name="METHOD_NAME" value="solutionTest" />
+      <option name="PACKAGE_NAME" value="algorithm.ac" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.ac.number1" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThirdNumber3.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="number2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.zi.*" />
+          <option name="PATTERN" value="algorithm.ac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="algorithm.zi" />
-      <option name="MAIN_CLASS_NAME" value="algorithm.zi.ThirdNumber3" />
+      <option name="PACKAGE_NAME" value="algorithm.ac" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.ac.number2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="number3.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.ac.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="algorithm.ac" />
+      <option name="MAIN_CLASS_NAME" value="algorithm.ac.number3" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -431,19 +493,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ThirdNumber1.solutionTest" />
-      <item itemvalue="JUnit.ThirdNumber1.solutionTest2" />
-      <item itemvalue="JUnit.ThirdNumber1.solutionTest3" />
-      <item itemvalue="JUnit.ThirdNumber2.solutionTest" />
-      <item itemvalue="JUnit.ThirdNumber3.test" />
+      <item itemvalue="JUnit.ThirdNumber4.solutionTest2" />
+      <item itemvalue="JUnit.number1.test" />
+      <item itemvalue="JUnit.number1.test2" />
+      <item itemvalue="JUnit.number2.test" />
+      <item itemvalue="JUnit.number3.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ThirdNumber3.test" />
-        <item itemvalue="JUnit.ThirdNumber2.solutionTest" />
-        <item itemvalue="JUnit.ThirdNumber1.solutionTest3" />
-        <item itemvalue="JUnit.ThirdNumber1.solutionTest2" />
-        <item itemvalue="JUnit.ThirdNumber1.solutionTest" />
+        <item itemvalue="JUnit.number1.test" />
+        <item itemvalue="JUnit.number1.test2" />
+        <item itemvalue="JUnit.number3.test" />
+        <item itemvalue="JUnit.number2.test" />
+        <item itemvalue="JUnit.ThirdNumber4.solutionTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -475,44 +537,46 @@
       <workItem from="1541313626532" duration="11000" />
       <workItem from="1541314051910" duration="13890000" />
       <workItem from="1541390917655" duration="9362000" />
-      <workItem from="1541412251220" duration="3298000" />
+      <workItem from="1541412251220" duration="5190000" />
+      <workItem from="1541680358251" duration="77000" />
+      <workItem from="1542096816173" duration="11176000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ThirdNumber1_solutionTest3 - 2018.11.05 at 14h 52m 53s.xml">
-      <configuration name="ThirdNumber1.solutionTest3" configurationId="JUnit" />
+    <history-entry file="number3_test - 2018.11.15 at 23h 00m 00s.xml">
+      <configuration name="number3.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThirdNumber2_solutionTest - 2018.11.05 at 14h 53m 07s.xml">
-      <configuration name="ThirdNumber2.solutionTest" configurationId="JUnit" />
+    <history-entry file="number3_test - 2018.11.15 at 23h 01m 39s.xml">
+      <configuration name="number3.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThirdNumber2_solutionTest - 2018.11.05 at 14h 54m 44s.xml">
-      <configuration name="ThirdNumber2.solutionTest" configurationId="JUnit" />
+    <history-entry file="number3_test - 2018.11.15 at 23h 02m 31s.xml">
+      <configuration name="number3.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThirdNumber2_solutionTest - 2018.11.05 at 14h 55m 05s.xml">
-      <configuration name="ThirdNumber2.solutionTest" configurationId="JUnit" />
+    <history-entry file="number1_test - 2018.11.15 at 23h 39m 07s.xml">
+      <configuration name="number1.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThirdNumber2_solutionTest - 2018.11.05 at 14h 55m 14s.xml">
-      <configuration name="ThirdNumber2.solutionTest" configurationId="JUnit" />
+    <history-entry file="number1_test2 - 2018.11.15 at 23h 39m 10s.xml">
+      <configuration name="number1.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThirdNumber2_solutionTest - 2018.11.05 at 14h 55m 26s.xml">
-      <configuration name="ThirdNumber2.solutionTest" configurationId="JUnit" />
+    <history-entry file="number1_test - 2018.11.15 at 23h 40m 29s.xml">
+      <configuration name="number1.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThirdNumber2_solutionTest - 2018.11.05 at 14h 55m 39s.xml">
-      <configuration name="ThirdNumber2.solutionTest" configurationId="JUnit" />
+    <history-entry file="number1_test - 2018.11.15 at 23h 43m 03s.xml">
+      <configuration name="number1.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThirdNumber2_solutionTest - 2018.11.05 at 14h 55m 46s.xml">
-      <configuration name="ThirdNumber2.solutionTest" configurationId="JUnit" />
+    <history-entry file="number1_test2 - 2018.11.15 at 23h 44m 08s.xml">
+      <configuration name="number1.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThirdNumber3_test - 2018.11.05 at 15h 45m 01s.xml">
-      <configuration name="ThirdNumber3.test" configurationId="JUnit" />
+    <history-entry file="number1_test - 2018.11.15 at 23h 44m 12s.xml">
+      <configuration name="number1.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ThirdNumber3_test - 2018.11.05 at 15h 45m 40s.xml">
-      <configuration name="ThirdNumber3.test" configurationId="JUnit" />
+    <history-entry file="number1_test - 2018.11.15 at 23h 44m 29s.xml">
+      <configuration name="number1.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187490000" />
+    <option name="totallyTimeSpent" value="200635000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -524,10 +588,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1254" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1041" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919742" visible="true" weight="0.23432343" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919742" visible="true" weight="0.23823825" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -537,14 +601,14 @@
       <window_info id="Favorites" order="7" sideWeight="0.5008026" side_tool="true" weight="0.2043551" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8333333" weight="0.2973262" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8333333" visible="true" weight="0.2973262" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.492674" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48635235" visible="true" weight="0.14438502" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48635235" weight="0.14438502" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5136476" side_tool="true" weight="0.22032085" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.497558" weight="0.32834226" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -565,30 +629,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/source/chapter04/BinarySearch.java" />
-    <entry file="file://$PROJECT_DIR$/src/algorithm/skp11/number1_final.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/skp11/number2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/skp11/number3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/source/chapter04/ReverseNumericalOrder.java" />
-    <entry file="file://$USER_HOME$/Downloads/source/chapter04/ReverseTest.java" />
     <entry file="file://$USER_HOME$/Downloads/source/chapter04/Sorting.java" />
     <entry file="file://$PROJECT_DIR$/src/prison.java" />
     <entry file="file://$PROJECT_DIR$/src/prison/view/InputView.java" />
@@ -617,25 +657,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="2123" column="18" selection-start-line="2123" selection-start-column="18" selection-end-line="2123" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber3_3.java" />
     <entry file="file://$PROJECT_DIR$/src/algorithm/zi/FirstNumber2.java" />
-    <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Date.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="13470">
@@ -647,26 +670,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="642">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/ka/ka1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -776,9 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -817,54 +817,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/backjoon/backjoon_2438.java">
+    <entry file="file://$PROJECT_DIR$/src/til/zi/ThirdNumber2.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="256">
+          <caret line="249" column="33" lean-forward="true" selection-start-line="249" selection-start-column="33" selection-end-line="249" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/backjoon/backjoon_1747.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="39" column="29" lean-forward="true" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/til/zi/ThirdNumber2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="52" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/til/algorithm/zi/ThirdNumber1.md">
+    <entry file="file://$PROJECT_DIR$/src/til/algorithm/zi/ThirdNumber2.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" column="22" selection-end-line="54" selection-end-column="64" />
+          <first_editor relative-caret-position="705">
+            <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="86" lean-forward="true" selection-start-line="44" selection-start-column="86" selection-end-line="44" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,18 +843,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/til/algorithm/zi/ThirdNumber2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+          <first_editor relative-caret-position="615">
+            <caret line="41" selection-start-line="41" selection-end-line="41" />
           </first_editor>
           <second_editor />
         </state>
@@ -896,10 +853,136 @@
     <entry file="file://$PROJECT_DIR$/readMe.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="105" selection-start-line="11" selection-start-column="105" selection-end-line="11" selection-end-column="105" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/ka/ka1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastructure/stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/backjoon/backjoon_2438.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/backjoon/backjoon_1747.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/ka/ka6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/til/algorithm/zi/ThirdNumber1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="386">
+            <caret line="33" column="43" lean-forward="true" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="602">
+          <caret line="52" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="52" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/ac.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/zi/ThirdNumber4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/ac/number2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="46" selection-start-column="4" selection-end-line="49" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/ac/number1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithm/ac/number3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -2,9 +2,7 @@ package algorithm.zi;
 
 import org.junit.Test;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 import static org.hamcrest.core.Is.is;
@@ -22,14 +20,10 @@ public class ThirdNumber4 {
         }
 
         for (int i = 0; i < input.length(); i++) {
-            List<Character> characters = new ArrayList<>();
-
-            characters.add(input.charAt(i)); // 첫 글자는 바깥쪽 For문에서 넣는다.
             alphabets.put(input.charAt(i), alphabets.get(input.charAt(i)) + 1);
             count++;
 
             for (int j = i + 1; j < input.length(); j++) {
-                characters.add(input.charAt(j));
                 alphabets.put(input.charAt(j), alphabets.get(input.charAt(j)) + 1);
 
                 for (int k = 65; k <= 90; k++) {
